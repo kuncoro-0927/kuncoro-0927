@@ -9,7 +9,7 @@ I build responsive and scalable web applications using modern technologies, focu
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,redux,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,redux,nodejs,mysql,express,git,github,vscode" />
 </p>
 
 ---
