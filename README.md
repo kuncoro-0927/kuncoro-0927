@@ -19,7 +19,6 @@ I build responsive and scalable web applications using modern technologies, focu
 ### 🔹 Quiz Application
 React-based quiz app with state management and localStorage persistence.  
 - Timer system  
-- Shuffle questions  
 - Score tracking  
 - Responsive design  
 
@@ -32,15 +31,6 @@ Web-based ticketing platform with role-based access and REST API integration.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuncoro-0927&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuncoro-0927&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -50,7 +40,7 @@ Web-based ticketing platform with role-based access and REST API integration.
   <a href="https://kkuncoro.netlify.app/">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
-  <a href="mailto:kuncorokhitan271@gmail.com">
+  <a href="mailto:khitanhesthik@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
